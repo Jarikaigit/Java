@@ -1,1 +1,1 @@
-Javaohjelmoinnin perusteet
+Javaohjelmoinnin perusteet paikallisesti
